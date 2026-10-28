@@ -1,4 +1,7 @@
-<img width="1366" height="768" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/cbb9d85d-1e6f-4b2f-9e04-47362950d3d0" />
+<img width="1366" height="679" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/c656f264-60c9-4743-a1db-a7e3e163303b" />
+<img width="1366" height="675" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/885466e7-f1a9-4a39-b32e-9dae331f38c7" />
+<img width="1366" height="675" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/cabb729d-7f2b-4bc4-9a04-3bea85886b97" />
+
 # Mern-Stack-Crud-App
 
 This is a simple crud project for beginners built with the following technologies:
